@@ -8,5 +8,6 @@ function checkAge(person) {
         console.log("A idade é :" + person.age);
     }
 
+    
 }
 checkAge(me);
